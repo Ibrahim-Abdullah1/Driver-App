@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75815150478",
+    "project_id": "stock-bot-e1aa7",
+    "storage_bucket": "stock-bot-e1aa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75815150478:android:74935f75ef5041625c7adf",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75815150478-hprsag0nhihm8lu2d49cicsj8k497fks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH0UdS2ynHDMvbRq9ovXnHUnv3lIq8Vlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75815150478-hprsag0nhihm8lu2d49cicsj8k497fks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
